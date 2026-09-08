@@ -5,7 +5,7 @@ about:
   head: fba44fe
   archived: false
   latestVersion: "4.2.0"
-  collectedAt: 2026-09-08T01:53:27Z
+  collectedAt: 2026-09-08T04:30:58Z
 timeline:
   created: 2020-01-08
   lastCommit: 2026-09-07
@@ -86,7 +86,7 @@ total:
   commit: 2549
 ---
 path: /home/runner/.x-repo/github.com/michael-simons/neo4j-migrations
-collectedAt: 2026-09-08T01:54:06Z
+collectedAt: 2026-09-08T04:31:38Z
 loc:
   Java:
     code: 31194
