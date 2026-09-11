@@ -7,7 +7,7 @@ about:
   latestVersion: "4.2.0"
   latestRelease: "4.2.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:34:47Z
+  collectedAt: 2026-09-11T20:30:31Z
 timeline:
   created: 2020-01-08
   lastCommit: 2026-09-10
@@ -90,7 +90,7 @@ total:
   commit: 2550
 ---
 path: /home/runner/.x-repo/github.com/michael-simons/neo4j-migrations
-collectedAt: 2026-09-11T04:35:25Z
+collectedAt: 2026-09-11T20:31:42Z
 loc:
   Java:
     code: 31194
