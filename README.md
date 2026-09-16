@@ -14,13 +14,13 @@ x install neo4j-migrations
 
 ## Code insight
 
-Total: **45,414** lines of code across **601** files in the top 5 languages.
+Total: **45,005** lines of code across **601** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Java | 31,194 | 13,259 | 8,329 | 462 |
 | Xml | 6,654 | 781 | 304 | 109 |
-| Json | 3,683 | 0 | 0 | 6 |
+| Json | 3,274 | 0 | 0 | 6 |
 | AsciiDoc | 2,955 | 38 | 882 | 17 |
 | Sh | 324 | 84 | 58 | 7 |
 
@@ -30,7 +30,7 @@ Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/12 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/13 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.2.0` (2026-09-07)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-15
 - **Assets in release**: 5
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 1745 · **Open PRs**: 11 · **Closed issues**: 123 · **Open issues**: 7 · **Commits**: 2550
+- **Releases**: 140 · **Merged PRs**: 1756 · **Open PRs**: 0 · **Closed issues**: 123 · **Open issues**: 7 · **Commits**: 2561
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 2 | 20 | 11 | 0 | 0 | 55 |
-| last60d | 2026-07-17 | 2 | 33 | 11 | 0 | 0 | 57 |
-| 90d | 2026-06-17 | 4 | 52 | 11 | 1 | 0 | 99 |
-| last180d | 2026-03-19 | 9 | 122 | 11 | 3 | 0 | 185 |
-| 360d | 2025-09-20 | 18 | 264 | 11 | 7 | 0 | 377 |
-| last720d | 2024-09-25 | 41 | 540 | 11 | 16 | 2 | 766 |
+| 30d | 2026-08-17 | 2 | 31 | 0 | 0 | 0 | 66 |
+| last60d | 2026-07-18 | 2 | 44 | 0 | 0 | 0 | 68 |
+| 90d | 2026-06-18 | 4 | 63 | 0 | 1 | 0 | 110 |
+| last180d | 2026-03-20 | 9 | 133 | 0 | 3 | 0 | 196 |
+| 360d | 2025-09-21 | 18 | 275 | 0 | 7 | 0 | 388 |
+| last720d | 2024-09-26 | 41 | 551 | 0 | 16 | 2 | 777 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for neo4j-migrations lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T04:50:38Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:51:27Z._
