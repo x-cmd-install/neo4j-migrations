@@ -4,7 +4,7 @@
 
 Automated script runner aka "Migrations" for Neo4j. Inspired by Flyway.
 
-![neo4j-migrations](https://repo.x-cmd.io/neo4j-migrations.svg?lang=zh)
+[![x-cmd/install — neo4j-migrations Code Quality Monitoring Repo Card](https://repo.x-cmd.io/neo4j-migrations.svg?lang=zh)](https://x-cmd.com/install/neo4j-migrations)
 
 ## 安装
 
@@ -58,12 +58,12 @@ x install neo4j-migrations
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 31 | 0 | 0 | 0 | 66 |
-| last60d | 2026-07-20 | 2 | 40 | 0 | 0 | 0 | 68 |
-| 90d | 2026-06-20 | 4 | 63 | 0 | 1 | 0 | 110 |
-| last180d | 2026-03-22 | 9 | 133 | 0 | 3 | 0 | 196 |
-| 360d | 2025-09-23 | 18 | 264 | 0 | 7 | 0 | 388 |
-| last720d | 2024-09-28 | 41 | 551 | 0 | 16 | 2 | 777 |
+| 30d | 2026-08-21 | 2 | 31 | 0 | 0 | 0 | 52 |
+| last60d | 2026-07-22 | 2 | 39 | 0 | 0 | 0 | 66 |
+| 90d | 2026-06-22 | 4 | 63 | 0 | 1 | 0 | 95 |
+| last180d | 2026-03-24 | 9 | 129 | 0 | 3 | 0 | 182 |
+| 360d | 2025-09-25 | 17 | 264 | 0 | 7 | 0 | 379 |
+| last720d | 2024-09-30 | 41 | 543 | 0 | 16 | 2 | 777 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ neo4j-migrations 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:37:36Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:50:05Z._
