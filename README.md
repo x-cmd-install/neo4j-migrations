@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 1756 · **Open PRs**: 0 · **Closed issues**: 123 · **Open issues**: 7 · **Commits**: 2561
+- **Releases**: 140 · **Merged PRs**: 1756 · **Open PRs**: 10 · **Closed issues**: 123 · **Open issues**: 7 · **Commits**: 2561
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 2 | 31 | 0 | 0 | 0 | 52 |
-| last60d | 2026-07-22 | 2 | 39 | 0 | 0 | 0 | 66 |
-| 90d | 2026-06-22 | 4 | 63 | 0 | 1 | 0 | 95 |
-| last180d | 2026-03-24 | 9 | 129 | 0 | 3 | 0 | 182 |
-| 360d | 2025-09-25 | 17 | 264 | 0 | 7 | 0 | 379 |
-| last720d | 2024-09-30 | 41 | 543 | 0 | 16 | 2 | 777 |
+| 30d | 2026-08-22 | 2 | 31 | 10 | 0 | 0 | 52 |
+| last60d | 2026-07-23 | 2 | 39 | 10 | 0 | 0 | 66 |
+| 90d | 2026-06-23 | 4 | 63 | 10 | 1 | 0 | 95 |
+| last180d | 2026-03-25 | 9 | 128 | 10 | 3 | 0 | 182 |
+| 360d | 2025-09-26 | 17 | 264 | 10 | 7 | 0 | 379 |
+| last720d | 2024-10-01 | 41 | 543 | 10 | 16 | 2 | 777 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for neo4j-migrations lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T04:50:04Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T04:50:49Z._
