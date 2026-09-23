@@ -4,7 +4,7 @@
 
 Automated script runner aka "Migrations" for Neo4j. Inspired by Flyway.
 
-[![x-cmd/install — neo4j-migrations Code Quality Monitoring Repo Card](https://repo.x-cmd.io/neo4j-migrations.svg)](https://x-cmd.com/install/neo4j-migrations)
+[![x-cmd/install — neo4j-migrations Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/neo4j-migrations.svg)](https://x-cmd.com/install/neo4j-migrations)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 31 | 10 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 2 | 39 | 10 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 4 | 63 | 10 | 1 | 0 | 0 |
-| last180d | 2026-03-26 | 9 | 127 | 10 | 3 | 0 | 0 |
-| 360d | 2025-09-27 | 17 | 264 | 10 | 7 | 0 | 0 |
-| last720d | 2024-10-02 | 41 | 543 | 10 | 16 | 2 | 777 |
+| 30d | 2026-08-24 | 2 | 21 | 10 | 0 | 0 | 52 |
+| last60d | 2026-07-25 | 2 | 39 | 10 | 0 | 0 | 66 |
+| 90d | 2026-06-25 | 4 | 63 | 10 | 1 | 0 | 95 |
+| last180d | 2026-03-27 | 9 | 125 | 10 | 3 | 0 | 182 |
+| 360d | 2025-09-28 | 17 | 264 | 10 | 7 | 0 | 379 |
+| last720d | 2024-10-03 | 41 | 543 | 10 | 16 | 2 | 777 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for neo4j-migrations lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:54:25Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:50:35Z._
