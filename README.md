@@ -14,11 +14,11 @@ x install neo4j-migrations
 
 ## Code insight
 
-Total: **45,005** lines of code across **601** files in the top 5 languages.
+Total: **45,003** lines of code across **601** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 31,194 | 13,259 | 8,329 | 462 |
+| Java | 31,192 | 13,259 | 8,329 | 462 |
 | Xml | 6,654 | 781 | 304 | 109 |
 | Json | 3,274 | 0 | 0 | 6 |
 | AsciiDoc | 2,955 | 38 | 882 | 17 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.2.0` (2026-09-07)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-10-25
 - **Assets in release**: 5
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 1756 · **Open PRs**: 11 · **Closed issues**: 123 · **Open issues**: 7 · **Commits**: 2561
+- **Releases**: 140 · **Merged PRs**: 1756 · **Open PRs**: 11 · **Closed issues**: 123 · **Open issues**: 7 · **Commits**: 2562
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-26 | 2 | 21 | 11 | 0 | 0 | 34 |
-| 90d | 2026-07-27 | 2 | 36 | 11 | 0 | 0 | 66 |
-| last180d | 2026-04-28 | 7 | 95 | 11 | 2 | 0 | 142 |
-| 360d | 2025-10-30 | 15 | 248 | 11 | 6 | 0 | 355 |
-| last720d | 2024-11-04 | 39 | 509 | 11 | 15 | 2 | 738 |
+| 30d | 2026-09-26 | 0 | 0 | 1 | 0 | 0 | 1 |
+| last60d | 2026-08-27 | 2 | 21 | 11 | 0 | 0 | 35 |
+| 90d | 2026-07-28 | 2 | 36 | 11 | 0 | 0 | 67 |
+| last180d | 2026-04-29 | 7 | 95 | 11 | 2 | 0 | 143 |
+| 360d | 2025-10-31 | 15 | 248 | 11 | 6 | 0 | 356 |
+| last720d | 2024-11-05 | 39 | 509 | 11 | 15 | 2 | 739 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for neo4j-migrations lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:34:16Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:38:35Z._
