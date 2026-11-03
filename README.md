@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `4.2.0` (2026-09-07)
-- **Last commit**: 2026-10-25
+- **Latest**: `4.2.1` (2026-11-02)
+- **Last commit**: 2026-11-02
 - **Assets in release**: 5
 
 ## Popularity
@@ -52,28 +52,28 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 140 · **Merged PRs**: 1756 · **Open PRs**: 11 · **Closed issues**: 123 · **Open issues**: 7 · **Commits**: 2562
+- **Releases**: 141 · **Merged PRs**: 1767 · **Open PRs**: 0 · **Closed issues**: 123 · **Open issues**: 7 · **Commits**: 2576
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 1 | 0 | 0 | 1 |
-| last60d | 2026-09-03 | 1 | 21 | 11 | 0 | 0 | 13 |
-| 90d | 2026-08-04 | 2 | 33 | 11 | 0 | 0 | 67 |
-| last180d | 2026-05-06 | 7 | 89 | 11 | 2 | 0 | 139 |
-| 360d | 2025-11-07 | 15 | 238 | 11 | 6 | 0 | 347 |
-| last720d | 2024-11-12 | 39 | 502 | 11 | 15 | 2 | 722 |
+| 30d | 2026-10-04 | 1 | 1 | 0 | 0 | 0 | 15 |
+| last60d | 2026-09-04 | 2 | 32 | 0 | 0 | 0 | 27 |
+| 90d | 2026-08-05 | 3 | 44 | 0 | 0 | 0 | 81 |
+| last180d | 2026-05-07 | 8 | 100 | 0 | 2 | 0 | 153 |
+| 360d | 2025-11-08 | 16 | 249 | 0 | 6 | 0 | 361 |
+| last720d | 2024-11-13 | 39 | 513 | 0 | 15 | 2 | 733 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums_sha256.txt](https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.0/checksums_sha256.txt) | 413 B | `other` |
-| [neo4j-migrations-4.2.0-linux-x86_64.zip](https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.0/neo4j-migrations-4.2.0-linux-x86_64.zip) | 16.6 MiB | `native/linux/x64` |
-| [neo4j-migrations-4.2.0-osx-aarch_64.zip](https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.0/neo4j-migrations-4.2.0-osx-aarch_64.zip) | 15.9 MiB | `native/darwin/x64` |
-| [neo4j-migrations-4.2.0-windows-x86_64.zip](https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.0/neo4j-migrations-4.2.0-windows-x86_64.zip) | 16.0 MiB | `native/win/x64` |
-| [neo4j-migrations-4.2.0.zip](https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.0/neo4j-migrations-4.2.0.zip) | 6.3 MiB | `other` |
+| [checksums_sha256.txt](https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.1/checksums_sha256.txt) | 413 B | `other` |
+| [neo4j-migrations-4.2.1-linux-x86_64.zip](https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.1/neo4j-migrations-4.2.1-linux-x86_64.zip) | 16.6 MiB | `native/linux/x64` |
+| [neo4j-migrations-4.2.1-osx-aarch_64.zip](https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.1/neo4j-migrations-4.2.1-osx-aarch_64.zip) | 15.9 MiB | `native/darwin/x64` |
+| [neo4j-migrations-4.2.1-windows-x86_64.zip](https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.1/neo4j-migrations-4.2.1-windows-x86_64.zip) | 16.0 MiB | `native/win/x64` |
+| [neo4j-migrations-4.2.1.zip](https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.1/neo4j-migrations-4.2.1.zip) | 6.3 MiB | `other` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for neo4j-migrations lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:57:44Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:43:38Z._
