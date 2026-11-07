@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 17413278,
       "digest": "sha256:6b004a42992f366a2acbbadb1485e53bbf09ef80f493ba1584ac2a00333ef963",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-11-02T09:32:58Z",
       "updated_at": "2026-11-02T09:32:59Z",
       "browser_download_url": "https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.1/neo4j-migrations-4.2.1-linux-x86_64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 16665320,
       "digest": "sha256:e56dc06876c946e14f2706097a8e1b2aa38123e487aaa056e3be867a38993613",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-02T09:32:59Z",
       "updated_at": "2026-11-02T09:33:00Z",
       "browser_download_url": "https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.1/neo4j-migrations-4.2.1-osx-aarch_64.zip"
