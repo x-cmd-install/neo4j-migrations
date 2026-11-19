@@ -30,8 +30,8 @@ Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -42,38 +42,38 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `4.2.2` (2026-11-11)
-- **Last commit**: 2026-11-11
+- **Latest**: `4.3.1` (2026-11-18)
+- **Last commit**: 2026-11-18
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 146 · **Forks**: 27 · **Open issues**: 130 · **Contributors**: 17
+- **Stars**: 147 · **Forks**: 27 · **Open issues**: 130 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 1772 · **Open PRs**: 5 · **Closed issues**: 123 · **Open issues**: 7 · **Commits**: 2585
+- **Releases**: 144 · **Merged PRs**: 1777 · **Open PRs**: 0 · **Closed issues**: 123 · **Open issues**: 7 · **Commits**: 2602
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 5 | 5 | 0 | 0 | 24 |
-| last60d | 2026-09-18 | 2 | 16 | 5 | 0 | 0 | 24 |
-| 90d | 2026-08-19 | 4 | 47 | 5 | 0 | 0 | 76 |
-| last180d | 2026-05-21 | 8 | 100 | 5 | 2 | 0 | 149 |
-| 360d | 2025-11-22 | 16 | 235 | 5 | 6 | 0 | 341 |
-| last720d | 2024-11-27 | 40 | 507 | 5 | 15 | 2 | 736 |
+| 30d | 2026-10-20 | 4 | 10 | 0 | 0 | 0 | 41 |
+| last60d | 2026-09-20 | 4 | 21 | 0 | 0 | 0 | 41 |
+| 90d | 2026-08-21 | 6 | 52 | 0 | 0 | 0 | 93 |
+| last180d | 2026-05-23 | 9 | 105 | 0 | 2 | 0 | 166 |
+| 360d | 2025-11-24 | 18 | 237 | 0 | 6 | 0 | 358 |
+| last720d | 2024-11-29 | 42 | 508 | 0 | 13 | 2 | 745 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums_sha256.txt](https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.2/checksums_sha256.txt) | 413 B | `other` |
-| [neo4j-migrations-4.2.2-linux-x86_64.zip](https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.2/neo4j-migrations-4.2.2-linux-x86_64.zip) | 16.6 MiB | `native/linux/x64` |
-| [neo4j-migrations-4.2.2-osx-aarch_64.zip](https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.2/neo4j-migrations-4.2.2-osx-aarch_64.zip) | 15.9 MiB | `native/darwin/x64` |
-| [neo4j-migrations-4.2.2-windows-x86_64.zip](https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.2/neo4j-migrations-4.2.2-windows-x86_64.zip) | 16.0 MiB | `native/win/x64` |
-| [neo4j-migrations-4.2.2.zip](https://github.com/michael-simons/neo4j-migrations/releases/download/4.2.2/neo4j-migrations-4.2.2.zip) | 6.3 MiB | `other` |
+| [checksums_sha256.txt](https://github.com/michael-simons/neo4j-migrations/releases/download/4.3.1/checksums_sha256.txt) | 413 B | `other` |
+| [neo4j-migrations-4.3.1-linux-x86_64.zip](https://github.com/michael-simons/neo4j-migrations/releases/download/4.3.1/neo4j-migrations-4.3.1-linux-x86_64.zip) | 16.6 MiB | `native/linux/x64` |
+| [neo4j-migrations-4.3.1-osx-aarch_64.zip](https://github.com/michael-simons/neo4j-migrations/releases/download/4.3.1/neo4j-migrations-4.3.1-osx-aarch_64.zip) | 15.9 MiB | `native/darwin/x64` |
+| [neo4j-migrations-4.3.1-windows-x86_64.zip](https://github.com/michael-simons/neo4j-migrations/releases/download/4.3.1/neo4j-migrations-4.3.1-windows-x86_64.zip) | 16.0 MiB | `native/win/x64` |
+| [neo4j-migrations-4.3.1.zip](https://github.com/michael-simons/neo4j-migrations/releases/download/4.3.1/neo4j-migrations-4.3.1.zip) | 6.3 MiB | `other` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for neo4j-migrations lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T07:59:44Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:40:42Z._
