@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 4 | 10 | 0 | 0 | 0 | 41 |
-| last60d | 2026-09-21 | 4 | 11 | 0 | 0 | 0 | 41 |
-| 90d | 2026-08-22 | 6 | 52 | 0 | 0 | 0 | 93 |
-| last180d | 2026-05-24 | 9 | 105 | 0 | 2 | 0 | 166 |
-| 360d | 2025-11-25 | 18 | 237 | 0 | 6 | 0 | 358 |
-| last720d | 2024-11-30 | 41 | 504 | 0 | 13 | 2 | 740 |
+| 30d | 2026-10-22 | 4 | 10 | 0 | 0 | 0 | 41 |
+| last60d | 2026-09-22 | 4 | 11 | 0 | 0 | 0 | 41 |
+| 90d | 2026-08-23 | 6 | 52 | 0 | 0 | 0 | 93 |
+| last180d | 2026-05-25 | 9 | 103 | 0 | 2 | 0 | 166 |
+| 360d | 2025-11-26 | 18 | 237 | 0 | 6 | 0 | 358 |
+| last720d | 2024-12-01 | 40 | 504 | 0 | 13 | 2 | 733 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for neo4j-migrations lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:06:52Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:01:55Z._
