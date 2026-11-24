@@ -30,8 +30,8 @@ Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 4 | 10 | 5 | 0 | 0 | 40 |
-| last60d | 2026-09-24 | 4 | 11 | 5 | 0 | 0 | 41 |
-| 90d | 2026-08-25 | 6 | 42 | 5 | 0 | 0 | 93 |
-| last180d | 2026-05-27 | 9 | 103 | 5 | 2 | 0 | 166 |
-| 360d | 2025-11-28 | 18 | 237 | 5 | 6 | 0 | 347 |
-| last720d | 2024-12-03 | 40 | 503 | 5 | 13 | 2 | 733 |
+| 30d | 2026-10-25 | 4 | 10 | 5 | 0 | 0 | 40 |
+| last60d | 2026-09-25 | 4 | 11 | 5 | 0 | 0 | 41 |
+| 90d | 2026-08-26 | 6 | 42 | 5 | 0 | 0 | 93 |
+| last180d | 2026-05-28 | 9 | 103 | 5 | 2 | 0 | 166 |
+| 360d | 2025-11-29 | 18 | 237 | 5 | 6 | 0 | 347 |
+| last720d | 2024-12-04 | 40 | 501 | 5 | 13 | 2 | 732 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for neo4j-migrations lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:33:37Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:46:34Z._
